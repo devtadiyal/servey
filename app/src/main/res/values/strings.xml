@@ -1,0 +1,72 @@
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="PluralsCandidate">
+    <string name="app_name">Opinion Bureau</string>
+    <string name="check_internet_connection">Please check your Internet connection.</string>
+   <string name="dialog_permission_message">This app needs permission to use this feature. You can grant them in app settings.</string>
+
+    <string name="enter_4_digits_code">Please enter 4 digits code which you have received in your registered Mobile.</string>
+
+
+    <string name="login">LOGIN</string>
+    <string name="setting">Settings</string>
+    <string name="password">Enter New Password</string>
+    <string name="submit">Submit</string>
+    <string name="verification">Verification</string>
+    <string name="sign_up">Sign up</string>
+    <string name="navigation_drawer_open">Open</string>
+    <string name="navigation_drawer_close">Close</string>
+
+
+    <string name="already_member">Already have an account? </string>
+    <!--<string name="otp_not_received">If you have not received 6 digit code click on  <font color='black'>RESEND</font></string>-->
+    <string name="otp_not_received">If you have not received 4 digit code click on</string>
+    <string name="resend">RESEND</string>
+    <string name="agree">I agree with</string>
+    <string name="tnc">terms &amp; conditions.</string>
+    <string name="everybody_knows">Everybody knows that FridaysSM is a sure bet for an excellent time. But did you know that we are also a leading global franchiser.</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+
+    <string name="notifications">Notifications</string>
+    <string name="change_password">Change Password</string>
+
+
+    <string name="logout_message">Are you sure you want to LogOut?</string>
+    <string name="yes">Yes</string>
+    <string name="no">no</string>
+
+    <!-- navigation drawer item labels  -->
+    <string-array name="nav_drawer_labels">
+        <item>@string/shared_tt</item>
+        <item>"Settings"</item>
+        <item>@string/subscription</item>
+        <item>@string/history</item>
+        <item>@string/feedback</item>
+        <item>@string/contact_us</item>
+    </string-array>
+
+    <string name="shared_tt">Shared TT\'s</string>
+    <string name="subscription">Subscription</string>
+    <string name="feedback">Feedback</string>
+    <string name="history">History</string>
+    <string name="contact_us">Contact us</string>
+
+    <string name="my_cart">My Cart</string>
+    <string name="find_transport">Find Transport</string>
+    <string name="become_transport">Become a Transporter</string>
+    <string name="share_app">Share app</string>
+    <string name="abt">About Us</string>
+    <string name="faq">FAQ</string>
+    <string name="log_out">Log Out</string>
+
+    <string name="hint_typing">Type a message</string>
+    <string name="interested">Hi i am interested in this %1$s…</string>
+
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+    <string name="logan_paul"></string>
+    <string name="ok">OK</string>
+    <string name="home">Home</string>
+    <string name="message">Message</string>
+    <string name="all_tt">All TT</string>
+    <string name="event">Event</string>
+    <string name="profile">Profile</string>
+</resources>
